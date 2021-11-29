@@ -5,7 +5,7 @@ Using SIM900 for sending and receiving SMS for Iran Telecom systems
 install the given library into your arduino libraries file
 
 2:
-edit your pin numbers in GSM.cpp file 
+edit your SIM900 pin numbers in GSM.cpp file 
 
 3:
 edit number and massege in the code 
